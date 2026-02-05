@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VR/Computer Graphics research.<br>👯 I’m looking to collaborate on research projects.<be> 📫 Reach me: jorgeaskur06@gmail.com
+🔭 I’m currently working on VR/Computer Graphics research.<br>👯 I’m looking to collaborate on research projects.<br> 📫 Reach me: jorgeaskur06@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jorge-Askur-Vazquez-Fernandez) 
